@@ -1,1 +1,16 @@
-var/*
+app/etc/local.xml
+/downloader/.cache
+/media/
+/nbproject/
+/var/
+!/var/.htaccess
+.DS_Store
+.htaccess
+
+benabeebridge*
+google*.html
+stats/*
+uploads/
+.user.ini
+emarsys/
+X-CHANGE/
